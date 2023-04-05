@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vitachat/static/css/main.4a8ff2bc.css",
+    "main.js": "/vitachat/static/js/main.dcb0f773.js",
+    "static/js/787.b8953acb.chunk.js": "/vitachat/static/js/787.b8953acb.chunk.js",
+    "index.html": "/vitachat/index.html",
+    "main.4a8ff2bc.css.map": "/vitachat/static/css/main.4a8ff2bc.css.map",
+    "main.dcb0f773.js.map": "/vitachat/static/js/main.dcb0f773.js.map",
+    "787.b8953acb.chunk.js.map": "/vitachat/static/js/787.b8953acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8ff2bc.css",
+    "static/js/main.dcb0f773.js"
+  ]
+}
